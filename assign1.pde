@@ -6,7 +6,7 @@ PImage soldier;
 PImage robot;
 
 int piece =80;
-int robotX =floor(random(160,600));
+int robotX =floor(random(160,561));
 int robotY = piece*2+floor(random(4))*piece;
 int soldierX;
 int soldierY = piece*2+floor(random(4))*piece;
